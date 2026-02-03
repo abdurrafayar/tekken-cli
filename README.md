@@ -56,12 +56,17 @@ A semester project that turned into something way cooler than expected. **Tekken
 
 ## 🧑‍💻 How to Run
 
-### Requirements
-- Windows OS
-- A C++ compiler (Visual Studio, MinGW, or any compiler that supports C++11 or later)
-- Sound files in a `./sounds/` folder (see below)
+### ⚡ Quick Start — No Compilation Needed
 
-### Steps
+Just download the repo and double-click **`tekken.exe`** — that's it. You're in. 🎮
+
+> Make sure the `sounds/` folder stays in the same folder as `tekken.exe`, otherwise the sound effects won't work.
+
+---
+
+### 🔧 Want to Compile It Yourself?
+
+Sure! Here's how:
 
 1. Clone the repo
 ```bash
@@ -69,7 +74,7 @@ git clone https://github.com/yourusername/tekken-cli.git
 cd tekken-cli
 ```
 
-2. Make sure the `sounds/` folder is in the same directory as the executable and contains:
+2. Make sure the `sounds/` folder is in the same directory and contains:
 ```
 sounds/
 ├── fight.wav
