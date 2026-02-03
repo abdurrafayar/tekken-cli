@@ -156,6 +156,6 @@ Built as a 1st semester project. Inspired by the legendary **Tekken** series by 
 
 <div align="center">
 
-Made with 💛 and way too many `cout` statements.
+Made with 💛 and pure console magic.
 
 </div>
